@@ -874,3 +874,11 @@ body {
 .small-padded {
     padding-top: 10px
 }
+
+.text-white {
+    color : #fff;
+}
+
+.office-name {
+    font-size : 120%;
+}
